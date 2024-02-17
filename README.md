@@ -1,0 +1,1 @@
+This tool allows you to analyze stocks and forecast their prices. We employ top-notch indicators such as Simple Moving Average, Bollinger Bands, Stochastic Oscillator, Commodity Channel Index, and RSI for stock analysis. By scrutinizing these indicators, you can anticipate the stock's movements.
